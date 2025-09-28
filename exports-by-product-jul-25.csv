@@ -1,0 +1,155 @@
+Species,Product,Country,Volume,Value
+Mussels,"Frozen Half Shell","Australia",77993,894037
+Mussels,"Frozen Half Shell","Belgium",19200,234396
+Mussels,"Frozen Half Shell","Canada",194313,2369863
+Mussels,"Frozen Half Shell","China, People's Republic of",51302,653969
+Mussels,"Frozen Half Shell","Cook Islands",72,897
+Mussels,"Frozen Half Shell","Denmark",9744,117190
+Mussels,"Frozen Half Shell","Fiji",8244,61849
+Mussels,"Frozen Half Shell","France",105363,1262854
+Mussels,"Frozen Half Shell","French Polynesia",1200,14400
+Mussels,"Frozen Half Shell","Germany",86595,1059925
+Mussels,"Frozen Half Shell","Guam",28819,336673
+Mussels,"Frozen Half Shell","Hong Kong (Special Administrative Region)",89824,1125361
+Mussels,"Frozen Half Shell","Israel",21480,272419
+Mussels,"Frozen Half Shell","Japan",21600,280899
+Mussels,"Frozen Half Shell","Jordan",9190,107739
+Mussels,"Frozen Half Shell","Korea, Republic of",139630,1753018
+Mussels,"Frozen Half Shell","Lebanon",8751,103342
+Mussels,"Frozen Half Shell","Lithuania",3960,46232
+Mussels,"Frozen Half Shell","Malaysia",25546,348539
+Mussels,"Frozen Half Shell","Netherlands",80937,1014282
+Mussels,"Frozen Half Shell","New Caledonia",3600,38700
+Mussels,"Frozen Half Shell","Niue",120,1455
+Mussels,"Frozen Half Shell","Papua New Guinea",80,1334
+Mussels,"Frozen Half Shell","Qatar",9000,104624
+Mussels,"Frozen Half Shell","Samoa",672,10137
+Mussels,"Frozen Half Shell","Saudi Arabia",18380,220235
+Mussels,"Frozen Half Shell","Singapore",63517,808467
+Mussels,"Frozen Half Shell","Taiwan",37299,459847
+Mussels,"Frozen Half Shell","Thailand",158152,1978793
+Mussels,"Frozen Half Shell","United Arab Emirates",107640,1336012
+Mussels,"Frozen Half Shell","United Kingdom",3996,47083
+Mussels,"Frozen Half Shell","United States of America",716354,8239074
+Mussels,"Frozen Half Shell","Vanuatu",480,6480
+Mussels,"Frozen Half Shell","Viet Nam",36792,445755
+Mussels,"Frozen Half Shell","Wallis and Futuna",144,1904
+Mussels,"Frozen Whole","Australia",86263,402274
+Mussels,"Frozen Whole","Canada",14208,183950
+Mussels,"Frozen Whole","China, People's Republic of",108766,568597
+Mussels,"Frozen Whole","Cyprus",6469,89287
+Mussels,"Frozen Whole","French Polynesia",80,536
+Mussels,"Frozen Whole","Hong Kong (Special Administrative Region)",15288,191774
+Mussels,"Frozen Whole","Jamaica",8190,83870
+Mussels,"Frozen Whole","Korea, Republic of",21773,275271
+Mussels,"Frozen Whole","New Caledonia",1005,5176
+Mussels,"Frozen Whole","Papua New Guinea",175,1880
+Mussels,"Frozen Whole","Philippines",22848,307136
+Mussels,"Frozen Whole","Singapore",400,3321
+Mussels,"Frozen Whole","Spain",6000,76519
+Mussels,"Frozen Whole","Tonga",600,11025
+Mussels,"Frozen Whole","United States of America",72076,648160
+Mussels,"Frozen Whole","Viet Nam",46164,387307
+Mussels,"Frozen Whole","Wallis and Futuna",160,725
+Mussels,"Frozen Meat","Australia",18248,252220
+Mussels,"Frozen Meat","Cook Islands",601,9601
+Mussels,"Frozen Meat","Fiji",996,13684
+Mussels,"Frozen Meat","Guam",1200,17732
+Mussels,"Frozen Meat","Hong Kong (Special Administrative Region)",32940,457347
+Mussels,"Frozen Meat","Korea, Republic of",29988,368367
+Mussels,"Frozen Meat","New Caledonia",2196,31842
+Mussels,"Frozen Meat","Spain",23100,277438
+Mussels,"Frozen Meat","United States of America",30326,350896
+Mussels,"Processed Powder","Australia",1100,86379
+Mussels,"Processed Powder","China, People's Republic of",200,16405
+Mussels,"Processed Powder","Japan",310,23273
+Mussels,"Processed Powder","Korea, Republic of",20,2780
+Mussels,"Processed Powder","Taiwan",150,9833
+Mussels,"Processed Powder","United Kingdom",500,38864
+Mussels,"Processed Powder","United States of America",3200,218706
+Mussels,"Dried, Salted or in Brine","Australia",111,7981
+Mussels,"Dried, Salted or in Brine","Fiji",1200,14520
+Mussels,"Dried, Salted or in Brine","Germany",13516,521151
+Mussels,"Smoked","Cook Islands",22,1024
+Mussels,"Mussel Oil","Australia",125,293375
+Mussels,"Mussel Oil","Colombia",0,212
+Mussels,"Mussel Oil","France",10,35690
+Mussels,"Mussel Oil","Japan",200,469400
+Mussels,"Mussel Oil","United States of America",1026,1704317
+Mussels,"Live","China, People's Republic of",63365,514583
+Mussels,"Live","Cook Islands",360,2016
+Mussels,"Live","Fiji",486,4882
+Mussels,"Live","Hong Kong (Special Administrative Region)",66720,361434
+Mussels,"Live","Singapore",350,2789
+Mussels,"Live","United States of America",2476,1973
+Mussels,"Meat Chilled/Fresh","Australia",202,18703
+Mussels,"Processed","United States of America",729,18757
+Mussels,"Processed Packed","Australia",49121,462087
+Mussels,"Processed Packed","China, People's Republic of",27709,183441
+Mussels,"Processed Packed","Cook Islands",3,390
+Mussels,"Processed Packed","Denmark",3330,21704
+Mussels,"Processed Packed","Guam",1089,6946
+Mussels,"Processed Packed","Hong Kong (Special Administrative Region)",7000,46846
+Mussels,"Processed Packed","Samoa",896,6699
+Mussels,"Processed Packed","Taiwan",10070,71807
+Mussels,"Processed Packed","United States of America",39190,246435
+Oysters,"Frozen","Australia",31023,457618
+Oysters,"Frozen","Cook Islands",250,3250
+Oysters,"Frozen","Fiji",20,305
+Oysters,"Frozen","French Polynesia",133,22800
+Oysters,"Frozen","Hong Kong (Special Administrative Region)",12980,160942
+Oysters,"Frozen","Japan",9600,173220
+Oysters,"Frozen","New Caledonia",240,4788
+Oysters,"Frozen","Niue",1,210
+Oysters,"Frozen","Samoa",50,845
+Oysters,"Live","Canada",575,7086
+Oysters,"Live","China, People's Republic of",11520,248005
+Oysters,"Live","Singapore",360,5878
+Oysters,"Live","United States of America",4280,48820
+Oysters,"Chilled","French Polynesia",90,1323
+Salmon,"Chilled Whole","Australia",32027,695002
+Salmon,"Chilled Whole","Canada",4488,144346
+Salmon,"Chilled Whole","China, People's Republic of",57273,1822565
+Salmon,"Chilled Whole","French Polynesia",1405,58360
+Salmon,"Chilled Whole","Hong Kong (Special Administrative Region)",2629,88196
+Salmon,"Chilled Whole","Japan",11046,285825
+Salmon,"Chilled Whole","Malaysia",433,12478
+Salmon,"Chilled Whole","Singapore",13529,410439
+Salmon,"Chilled Whole","Taiwan",2628,83756
+Salmon,"Chilled Whole","Thailand",2273,56750
+Salmon,"Chilled Whole","United States of America",148151,4395249
+Salmon,"Chilled Whole","Viet Nam",3214,112823
+Salmon,"Frozen Whole","Solomon Islands",75,464
+Salmon,"Chilled Fillets","Australia",4042,239249
+Salmon,"Chilled Fillets","Canada",210,8545
+Salmon,"Chilled Fillets","Cook Islands",13,923
+Salmon,"Chilled Fillets","Hong Kong (Special Administrative Region)",301,14299
+Salmon,"Chilled Fillets","Niue",4,994
+Salmon,"Chilled Fillets","Singapore",1691,75379
+Salmon,"Chilled Fillets","Taiwan",29,1508
+Salmon,"Chilled Fillets","United States of America",20699,806552
+Salmon,"Frozen Fillets","Australia",229,7585
+Salmon,"Frozen Fillets","Canada",21635,1034781
+Salmon,"Frozen Fillets","Cook Islands",393,14178
+Salmon,"Frozen Fillets","Fiji",295,9342
+Salmon,"Frozen Fillets","Hong Kong (Special Administrative Region)",136,5717
+Salmon,"Frozen Fillets","Japan",4002,175874
+Salmon,"Frozen Fillets","Netherlands",446,13943
+Salmon,"Frozen Fillets","Niue",50,1352
+Salmon,"Frozen Fillets","Papua New Guinea",1100,35791
+Salmon,"Frozen Fillets","Solomon Islands",138,4697
+Salmon,"Frozen Fillets","Taiwan",244,10369
+Salmon,"Frozen Fillets","United States of America",35199,1184443
+Salmon,"Smoked","Australia",6451,404508
+Salmon,"Smoked","Fiji",10,529
+Salmon,"Smoked","French Polynesia",151,13653
+Salmon,"Smoked","Netherlands",3530,200194
+Salmon,"Smoked","Solomon Islands",2,1
+Salmon,"Smoked","Taiwan",282,18797
+Salmon,"Processed Cans or Jars, Whole","Cook Islands",15,283
+Salmon,"Processed Cans or Jars, Whole","Malaysia",26,278
+Salmon,"Processed Cans or Jars, Whole","Niue",2,70
+Salmon,"Processed Cans or Jars, Whole","Solomon Islands",23,348
+Salmon,"Processed Cans or Jars, Whole","Vanuatu",50,748
+Salmon,"Salmonidae","Australia",1054,48852
+Salmon,"Salmonidae","Samoa",683,4059
